@@ -3,12 +3,6 @@
 
 Posts weekly site stats in Slack, forked from https://github.com/okfde/matomo-slack-bot
 
-> [okfde](https://github.com/okfde/): 1000 visits
->
-> > [okfde/froide](https://github.com/okfde/froide): 800 visits
-> >
-> > [okfde/matomo-slack-bot](https://github.com/okfde/matomo-slack-bot): 160 visits
-
 ## How to install
 
 1. Fork this repo.
