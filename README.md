@@ -1,6 +1,7 @@
 # Matomo Slack Bot
 
-Posts weekly site stats in Slack, like this:
+
+Posts weekly site stats in Slack, forked from https://github.com/okfde/matomo-slack-bot
 
 > [okfde](https://github.com/okfde/): 1000 visits
 >
